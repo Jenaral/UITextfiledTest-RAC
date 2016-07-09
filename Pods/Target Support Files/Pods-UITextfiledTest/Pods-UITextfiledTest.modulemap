@@ -1,0 +1,6 @@
+framework module Pods_UITextfiledTest {
+  umbrella header "Pods-UITextfiledTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
